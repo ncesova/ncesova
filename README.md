@@ -10,7 +10,7 @@
 
 ### ⚙️ Backend
 
-![Tech stack](https://go-skill-icons.vercel.app/api/icons?i=typescript,nodejs,bun,express,elysia,postgres,drizzle,docker,langchain)
+![Tech stack](https://go-skill-icons.vercel.app/api/icons?i=typescript,kotlin,nodejs,bun,express,elysia,postgres,drizzle,docker,langchain)
 
 <details>
     <summary><h2>My Stats</h2>
